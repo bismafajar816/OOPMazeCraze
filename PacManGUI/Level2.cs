@@ -172,7 +172,7 @@ namespace PacManGUI
                         {
                             gameLoop.Enabled = false;
                             this.Hide();
-                            ShowGameEnd(PacManGUI.Properties.Resources.pacman_gameover);
+                            ShowGameEnd(PacManGUI.Properties.Resources.GameOver);
 
                         }
                     }
